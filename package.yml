@@ -1,0 +1,14 @@
+package: community.lazycat.app.thinkread
+version: 0.1.0
+name: ThinkRead
+description: "基于 React 开发的简单电子书阅读器，支持跨设备同步和文本转语音(TTS)功能"
+min_os_version: "1.5.0"
+homepage: https://github.com/nikunjsingh93/thinkread-ebook-reader
+author: Nikunj Singh
+locales:
+  zh:
+    description: "基于 React 开发的简单电子书阅读器，支持跨设备同步和文本转语音(TTS)功能"
+    name: ThinkRead
+  en:
+    description: "Simple ebook reader made in React with sync across devices and TTS"
+    name: ThinkRead
