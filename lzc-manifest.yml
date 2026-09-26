@@ -5,8 +5,8 @@ application:
       backend: http://thinkread:8080/
 services:
   thinkread:
-    # upstream: nikunjsingh/thinkread-ebook-reader:v1.3.0
-    image: registry.lazycat.cloud/czyt/nikunjsingh/thinkread-ebook-reader:f7d7568dfa4ecc63
+    # upstream: nikunjsingh/thinkread-ebook-reader:v1.3.1
+    image: registry.lazycat.cloud/czyt/nikunjsingh/thinkread-ebook-reader:be9170db3e1ada7f
     environment:
       - DATA_DIR=/data
     binds:
